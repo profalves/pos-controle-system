@@ -2,26 +2,18 @@
   "totalItems": 2,
   "products": [
     {
-      "id": 100,
+      "id": "100",
       "name": "Maçã",
-      "quantityInPackage": 1,
+      "quantityInPackage": "1",
       "unitOfMeasurement": "un",
-      "category": {
-        "id": 100,
-        "name": "Hort-Fruit"
-      },
-      "price": 2
+      "price": "2"
     },
     {
-      "id": 101,
+      "id": "101",
       "name": "Leite",
-      "quantityInPackage": 2,
+      "quantityInPackage": "2",
       "unitOfMeasurement": "lt",
-      "category": {
-        "id": 101,
-        "name": "Laticínios"
-      },
-      "price": 5
+      "price": "5"
     }
   ]
 }
