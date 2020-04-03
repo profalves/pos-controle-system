@@ -8,6 +8,7 @@
   "author": "Rodrigo Alves <igo.sud@hotmail.com>",
   "private": true,
   "scripts": {
+    "start": "npm run pwa",
     "pwa": "quasar dev -m pwa"
   },
   "dependencies": {
